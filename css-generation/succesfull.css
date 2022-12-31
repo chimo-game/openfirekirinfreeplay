@@ -38,7 +38,7 @@ img {
 
 .congrats {
   display: inline-block;
-  color: #4caf50;
+  color: #0885d8;
   font-size: 2.2vh;
 }
 
@@ -154,75 +154,75 @@ img {
 }
 
 [id*=Particle]:nth-child(1) {
-  animation-duration: 1383ms;
+  animation-duration: 1007ms;
 }
 
 [id*=Particle]:nth-child(2) {
-  animation-duration: 1209ms;
+  animation-duration: 1338ms;
 }
 
 [id*=Particle]:nth-child(3) {
-  animation-duration: 1794ms;
+  animation-duration: 1844ms;
 }
 
 [id*=Particle]:nth-child(4) {
-  animation-duration: 1080ms;
+  animation-duration: 1695ms;
 }
 
 [id*=Particle]:nth-child(5) {
-  animation-duration: 1669ms;
+  animation-duration: 1751ms;
 }
 
 [id*=Particle]:nth-child(6) {
-  animation-duration: 1880ms;
+  animation-duration: 1985ms;
 }
 
 [id*=Particle]:nth-child(7) {
-  animation-duration: 1997ms;
+  animation-duration: 1470ms;
 }
 
 [id*=Particle]:nth-child(8) {
-  animation-duration: 1977ms;
+  animation-duration: 1755ms;
 }
 
 [id*=Particle]:nth-child(9) {
-  animation-duration: 1075ms;
+  animation-duration: 1582ms;
 }
 
 [id*=Particle]:nth-child(10) {
-  animation-duration: 1706ms;
+  animation-duration: 1736ms;
 }
 
 [id*=Particle]:nth-child(11) {
-  animation-duration: 1238ms;
+  animation-duration: 1191ms;
 }
 
 [id*=Particle]:nth-child(12) {
-  animation-duration: 1664ms;
+  animation-duration: 1358ms;
 }
 
 [id*=Particle]:nth-child(13) {
-  animation-duration: 1174ms;
+  animation-duration: 1555ms;
 }
 
 [id*=Particle]:nth-child(14) {
-  animation-duration: 1038ms;
+  animation-duration: 1463ms;
 }
 
 [id*=Particle]:nth-child(15) {
-  animation-duration: 1432ms;
+  animation-duration: 1006ms;
 }
 
 [id*=Particle]:nth-child(16) {
-  animation-duration: 1117ms;
+  animation-duration: 1396ms;
 }
 
 [id*=Particle]:nth-child(17) {
-  animation-duration: 1302ms;
+  animation-duration: 1718ms;
 }
 
 [id*=Particle]:nth-child(18) {
-  animation-duration: 1932ms;
+  animation-duration: 1098ms;
 }
 
 [id*=Particle]:nth-child(1) {
