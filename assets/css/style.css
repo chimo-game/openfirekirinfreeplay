@@ -12,8 +12,8 @@
    */
 
   /* background color */
-  --bg-purple: hsla(267, 100%, 63%, 1);
-  --bg-purple-alpha-30: hsla(267, 100%, 63%, 0.3);
+  --bg-purple: #9742ff;
+  --bg-purple-alpha-30: #9742ff4d;
   --bg-dark-purple: hsla(279, 42%, 9%, 1);
   --bg-oxford-blue: hsla(240, 63%, 13%, 1);
   --bg-oxford-blue-alpha-95: hsla(240, 63%, 13%, 0.95);
@@ -47,7 +47,7 @@
   --text-white: hsla(0, 0%, 100%, 1);
   --text-gainsboro: hsla(0, 0%, 87%, 1);
   --text-champagne-pink: hsla(23, 61%, 86%, 1);
-  --text-purple: hsla(267, 100%, 63%, 1);
+  --text-purple: #9742ff;
 
   /* border color */
   --border-space-cadet: hsl(240, 45%, 17%);
@@ -870,7 +870,7 @@ body {
    */
 
   .header .logo img {
-    width: 160px;
+    width: 120px;
   }
 
   /**
