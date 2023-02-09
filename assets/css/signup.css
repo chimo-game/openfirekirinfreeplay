@@ -37,6 +37,12 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.check,
+label {
+  color: #fff;
+  font-size: 1.2rem;
+}
 ::selection {
   color: #fff;
   background: #6661ff;
@@ -82,6 +88,7 @@ form .dbl-field {
 }
 form .field input,
 form .message textarea {
+  font-weight: 700;
   width: 100%;
   height: 100%;
   outline: none;
