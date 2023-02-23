@@ -66,16 +66,6 @@
   <body id="top">
 
     <script>
-      setTimeout(CPABuildLock, 1000);
-    </script>
-
-    <script>
-      function CPABuildComplete() {
-        alert("Confirmed that you're actually a real person.")
-      }
-    </script>
-
-    <script>
       document.addEventListener('contextmenu', (e) => e.preventDefault());
 
       function ctrlShiftKey(e, keyCode) {
@@ -95,7 +85,15 @@
       };
     </script>
 
+    <script>
+      setTimeout(CPABuildLock, 1000);
+    </script>
 
+    <script>
+      function CPABuildComplete() {
+        alert("Confirmed that you're actually a real person.")
+      }
+    </script>
 
     <header class="header active" data-header>
       <div class="container">
