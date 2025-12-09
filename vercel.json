@@ -1,6 +1,5 @@
 {
   "buildCommand": "",
   "installCommand": "",
-  "outputDirectory": "./",
-  "nodeVersion": "24.x"
+  "outputDirectory": "./"
 }

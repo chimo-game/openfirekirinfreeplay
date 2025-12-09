@@ -1,0 +1,8 @@
+{
+  "name": "openfirekirinfreeplay",
+  "version": "1.0.0",
+  "description": "Fire Kirin Free Play",
+  "engines": {
+    "node": "24.x"
+  }
+}
